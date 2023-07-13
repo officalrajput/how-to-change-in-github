@@ -1,0 +1,11 @@
+this how to create the repo and its push into local to prime git 
+
+_______
+
+
+1.github account 
+2.empty repo create
+3.local system
+-->  git config --global user.name "officalrajput"
+-->  git config --global user.email "ranurajput1800@gmail.com"
+4.git push -u origin master
